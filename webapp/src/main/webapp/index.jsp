@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning, Every Thing will be all right. </h1>
+   <h1> Thankyou, Happy Learning, Every Thing will be all right. Stop Worring too much. </h1>
 
   
 </form>
